@@ -1,0 +1,61 @@
+HTML5 : langage utilisé pour organiser le contenu d’une page web.
+
+CSS3 : langage utilisé pour définir l’apparence du site.
+
+
+documentation dans HTML5:
+
+Balise : élément HTML qui permet de définir un contenu ou sa fonction.
+Header : partie supérieure d’une page, souvent utilisée pour le logo et l’en-tête.
+Nav : partie qui contient les liens de navigation entre les pages.
+Main : partie principale qui contient le contenu important de la page.
+Section : partie d’une page qui regroupe des éléments autour d’un même sujet.
+Div : conteneur utilisé pour regrouper plusieurs éléments afin de mieux organiser la page.
+Footer : partie inférieure d’une page, généralement utilisée pour les informations complémentaires.
+H1, H2, H3 : titres qui permettent d’organiser le contenu selon son importance.
+P : balise utilisée pour écrire un paragraphe.
+A (lien) : élément qui permet de créer un lien vers une autre page ou une ressource.
+Img : élément utilisé pour afficher une image.
+Alt : texte alternatif qui décrit une image lorsque celle-ci ne peut pas être affichée ou pour les lecteurs d’écran.
+Ul : liste non ordonnée, généralement affichée avec des puces.
+Li : élément qui représente une entrée dans une liste.
+Form : élément qui permet de créer un formulaire pour recueillir des informations.
+Input : champ permettant à l’utilisateur de saisir une information.
+Label : texte qui décrit un champ de formulaire.
+Button : élément interactif qui permet de déclencher une action.
+Attribut : information ajoutée à une balise pour préciser son fonctionnement ou ses caractéristiques.
+Sémantique : utilisation de balises qui indiquent clairement le rôle du contenu, comme header, main et footer.
+
+documentation dans le CSS:
+
+Sélecteur : élément qui permet de choisir les parties HTML auxquelles appliquer un style.
+Propriété : caractéristique que l’on souhaite modifier, comme la couleur ou la taille du texte.
+Valeur : paramètre donné à une propriété, par exemple une couleur ou une dimension.
+Margin : espace extérieur autour d’un élément.
+Padding : espace intérieur entre le contenu et les limites d’un élément.
+Color : propriété qui définit la couleur du texte.
+Background : propriété utilisée pour définir l’arrière-plan d’un élément.
+Font-size : propriété qui définit la taille du texte.
+Flexbox : méthode de mise en page qui facilite l’alignement et la répartition des éléments.
+Grid : système de mise en page qui organise les éléments en lignes et en colonnes.
+Responsive : capacité d’un site à s’adapter aux différentes tailles d’écran.
+Media query : règle CSS qui permet d’adapter le style selon la taille de l’écran ou les préférences de l’utilisateur.
+Hover : état d’un élément lorsque le pointeur de la souris passe dessus.
+Transition : effet qui rend le changement d’un style plus progressif.
+Animation : effet visuel qui permet de modifier progressivement l’apparence ou la position d’un élément.
+
+autre documentation:
+
+UX (expérience utilisateur) : facilité avec laquelle une personne utilise un site.
+UI (interface utilisateur) : éléments visuels du site, comme les menus, les couleurs et les boutons.
+SEO : techniques qui améliorent la visibilité d’un site sur les moteurs de recherche.
+Accessibilité : adaptation du site pour qu’il soit utilisable par le plus grand nombre.
+One Page : site web dont le contenu principal est regroupé sur une seule page.
+Multipage : site web composé de plusieurs pages distinctes.
+Navigation : système de liens qui permet de passer d’une page à une autre.
+Git : outil qui permet de suivre les modifications du projet.
+GitHub : plateforme qui permet d’héberger et de partager le code.
+Dépôt (repository) : espace dans lequel les fichiers et l’historique d’un projet sont stockés sur GitHub.
+Commit : enregistrement d’un ensemble de modifications dans Git.
+Déploiement : mise en ligne du site pour le rendre accessible aux visiteurs.
+GitHub Pages : service qui permet de publier un site web à partir d’un dépôt GitHub.

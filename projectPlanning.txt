@@ -1,0 +1,35 @@
+jour 1:
+
+planification du projet.gti 
+documentation sur git et git hub.
+documentation sur HTML.
+déviser les pages accuil, a-propos, et programmes.
+crée une page contact us avec le html.
+mettre en place les liens de navigation entre les pages.
+
+
+jour 2:
+
+documentation sur le HTML.
+améliorer le HTML de la page contact us.
+documentation sur le CSS.
+essayer de faire le style de la page comme les autre pages de site avec le CSS
+
+
+jour 3:
+
+vérifier la navigation et corriger les liens.
+ajouter le logo du site et modifier sa position avec CSS.
+tester les formulaires et les interactions disponibles.
+corriger les problèmes d’affichage.
+améliorer le style de site et les couleurs avec le css.
+
+
+jour 4:
+
+effectuer une vérification complète des quatre pages.
+tester les liens, les images.
+corriger les dernières erreurs.
+envoyer les fichiers sur GitHub et vérifier l’historique des modifications.
+déployer le site avec GitHub Pages.
+rédiger la documentation du projet.
